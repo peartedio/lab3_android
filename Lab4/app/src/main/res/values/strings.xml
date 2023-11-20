@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="edit_text_hint">Введите имя</string>
+    <string name="button_text">Сохранить</string>
+    <string name="name_info">Ваше имя: %1$s</string>
+</resources>
